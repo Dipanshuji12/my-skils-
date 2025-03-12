@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.astrologer{
+    background-color:brown;
+    width:100%;
+    height:70px;
+    font-size: 30px;
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+.astrologer>.rahul{
+    /* color:white; */
+    width:50%;
+    float: left;
+
+}
+
+
+.raju{
+    width: 100%;
+    height: 300px;
+    text-align: left;
+    
+    /* justify-content: space-between; */
+    
+}
+.raju>img{
+    float: left ;
+}
+.raju>h1{
+    padding: 20px;
+    
+}
+.raju>h2{
+    padding: 20px;
+    font-size: 50px;
+    text-shadow: 40px;
+    font-weight: 50px;
+    color: rgb(19, 9, 1);
+    
+}
+.raju>h3{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+text-align:center ;
+
+
+}
+
+
+
+.ram{
+    width:100%;
+    height:50px;
+    color: white;
+}
+
+
+.pom{
+    width:100%;
+    height:150px;
+    background-color: white;
+    text-align: center;
+}
+.pom>h1{
+    background-color: rgba(231, 231, 27, 0.904);
+}
+.pom>h2{
+
+    color: green;
+}
+
+.text{
+ color: white;
+}
+
+
+.syam{
+    width:100%;
+    height:600px;
+}
+
+
+.raka{
+    width:100%;
+    height:500pxx;
+}
+
+.saka{
+    width:100%;
+    height:500pxx;
+}
